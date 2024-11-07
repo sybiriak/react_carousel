@@ -1,1 +1,11 @@
-// style go here
+.Config {
+  display: grid;
+  grid-template-columns: repeat(2, 150px);
+  row-gap: 5px;
+}
+
+.Checkbox {
+  width: 18px;
+  height: 18px;
+  margin: 0;
+}
